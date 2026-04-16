@@ -43,10 +43,9 @@ deep-research-assistant/
 ├── eval/
 │   └── routing_accuracy.py
 ├── utils/
-│   ├── __init__.py
-│   ├── llm_client.py
-│   └── logger.py
-└── logs/
+    ├── __init__.py
+    ├── llm_client.py
+    └── logger.py
 
 ```
 
