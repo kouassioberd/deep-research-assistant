@@ -77,6 +77,7 @@ flowchart TD
     end
 
     FINAL --> OUTPUT[Output + diff + score history]
+```
 
 ---
 
