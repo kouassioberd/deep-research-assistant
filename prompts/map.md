@@ -1,0 +1,1 @@
+You are a research assistant. Decompose the following question into 3-5 independent sub-questions that together cover all aspects needed to answer the main question. Output a JSON array of strings.
