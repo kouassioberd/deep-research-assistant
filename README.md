@@ -16,6 +16,8 @@ An agentic system that answers complex, open‑ended research questions using **
 
 ## 📁 Project Structure
 
+```
+
 deep-research-assistant/
 ├── config.py
 ├── main.py
@@ -45,6 +47,8 @@ deep-research-assistant/
 │   ├── llm_client.py
 │   └── logger.py
 └── logs/
+
+```
 
 ---
 
